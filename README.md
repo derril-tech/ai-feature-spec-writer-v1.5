@@ -2,8 +2,6 @@
 
 **with CrewAI Multi-Agent System**
 
-🌐 **See the Live Application**: [https://ai-feature-spec-writer.vercel.app/](https://ai-feature-spec-writer.vercel.app/)
-
 > **Transform vague feature ideas into production-ready PRDs, implementation tasks, and acceptance criteria using a 3-agent AI workflow. Get comprehensive specifications—instantly and accurately.** ⚡
 
 ---
@@ -205,7 +203,6 @@
 
 **Created by Derril Filemon**
 
-- 🌐 **Website**: [https://ai-feature-spec-writer.vercel.app/](https://ai-feature-spec-writer.vercel.app/)
 - 💼 **GitHub**: [@derril-tech](https://github.com/derril-tech)
 
 ---
@@ -236,9 +233,6 @@ MIT License - see LICENSE file for details
 
 <div align="center">
 
-
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
-
-[Live Demo](https://ai-feature-spec-writer.vercel.app/) • [Documentation](./ARCH.md) • [Roadmap](./UPGRADES_ROADMAP.md)
 
 </div>
